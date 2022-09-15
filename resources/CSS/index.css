@@ -1,0 +1,34 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header {
+    box-sizing: border-box;
+}
+
+h1 {
+    text-align: center;
+    color: chocolate;
+    background-color: antiquewhite;
+    font-size: 100 px;
+}
+
+.pHead {
+    height:50px;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+}
+
+#pImg1 {
+    background-color: crimson;
+}
+
+#pImg2 {
+    background-color: blue;
+}
+
+.imgLayout {
+    width: 600px;
+    height: 600 px;
+}
